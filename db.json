@@ -1,8 +1,21 @@
 {
-    "users": [
-        
+    "users": [],
+    "dogs": [
+        {
+            "name": "dobarman",
+            "age": 12,
+            "gender": "male",
+            "place": "ahmedabad",
+            "id": 1
+        },
+        {
+            "name": "ketto",
+            "age": 5,
+            "gender": "female",
+            "place": "udaipur",
+            "id": 2
+            }
     ],
-    "dogs": [],
     "inventory": [
         {
             "product": "Chair",
