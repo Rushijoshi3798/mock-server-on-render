@@ -44,7 +44,25 @@
             "kms": 8000,
             "Description": "Tata Nexon with all original documents",
             "Price": 800000
-        }
+        },
+        {
+            "brand": "Tata",
+            "type": "AMT",
+            "year": 2015,
+            "kms": 2500,
+            "Description": "asdsdsdsd",
+            "Price": 540000,
+            "id": 3
+            },
+            {
+            "brand": "Mahindra",
+            "type": "Manual",
+            "year": 2017,
+            "kms": 5200,
+            "Description": "sASassass",
+            "Price": 890000,
+            "id": 4
+            }
     ],
     "wishlisted_cars": [
         {
